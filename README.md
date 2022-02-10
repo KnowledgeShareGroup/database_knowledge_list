@@ -1,7 +1,7 @@
 # database_knowledge_list
 database key points collection
 
-## 1.Database Structure
+## 1.数据库的结构
 ### ①模式（schema）：
 
 模式也称逻辑模式，是数据库中全体数据的逻辑结构和特征的描述，是所有用户的公共数据视图。
